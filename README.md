@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**FullJoss/FullJoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎓 Computer Science & Electronics Student · 💻 Software Developer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+Passionate about computer science and electronics, I'm interested in both software development and embedded systems design.
+
+I enjoy exploring new technologies, experimenting and understanding how things work under the hood.
+
+### 🛠️ Technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Win32](https://img.shields.io/badge/Win32-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+### 🚀 Featured Project
+
+**[FolderSz](https://github.com/FullJoss/FolderSz)**
+
+A lightweight native Windows utility that displays folder sizes directly in Windows Explorer.
+
+<p align="center">
+  <i>Learn. Experiment. Build.</i>
+</p>
